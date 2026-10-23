@@ -1,0 +1,16 @@
+# Graphviz intermediates
+tools/*.dot
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local env
+.env
+node_modules/
